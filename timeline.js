@@ -145,7 +145,7 @@ function getDateTime(stringTime) {
 }
 
 function compareNumbers(a, b) {
-    return a - b;
+    return b - a;
 }
 
 function getTweetDatawithDateTime(dateTime) {
